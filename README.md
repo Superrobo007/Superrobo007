@@ -1,4 +1,4 @@
-# Hi, I'm Joel 👋
+# Hi, I'm Joel Sahay 👋
 
 - 🚀 Working on AI, ML, and Robotics projects  
 - 🔭 Built: Smart Military Rover | Emotion Detection Bot | Satellite Optimisation  
