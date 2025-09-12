@@ -7,7 +7,7 @@
 
 ### 🚀 Top Projects
 - [Smart Military Rover](https://github.com/Superrobo007/Autonomous-Rover-with-WebSocket-Multi-YOLO-Sensor-Array-and-Laser-Targeting-System)
-- [Satellite Optimisation]
+- [Satellite Optimisation](https://github.com/Superrobo007/Satellite-Position-Optimisation-using-PSO-and-ADMM)
 - [Emotion Detection Bot]
 
 - ### 🛠️ Languages & Tools
