@@ -8,7 +8,7 @@
 ### 🚀 Top Projects
 - [Smart Military Rover](https://github.com/Superrobo007/Autonomous-Rover-with-WebSocket-Multi-YOLO-Sensor-Array-and-Laser-Targeting-System)
 - [Satellite Optimisation](https://github.com/Superrobo007/Satellite-Position-Optimisation-using-PSO-and-ADMM)
-- [Emotion Detection Bot]
+- [Emotion Detection Bot](https://github.com/Superrobo007/Therapytic-Bot-along-with-emotion-detection)
 
 - ### 🛠️ Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
